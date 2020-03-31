@@ -23,3 +23,7 @@ The <meta> tag allows you to supply all kinds of information about your web page
 ```
 
 - Escape characters are used to include special characters in your pages such as <,>, &copy;
+
+- A script is a series of instructions that the computer can follow in order to achieve a goal.
+
+- It's best to keep JavaScript code in it's JavaScript file. A text file with the .js extension.
