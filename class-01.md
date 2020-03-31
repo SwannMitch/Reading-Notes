@@ -1,6 +1,6 @@
 # Web Development Basics
 
-### Here is some quick info and terms for HTML and Javascript
+### Here is some quick info and terms for HTML and JavaScript
 
 ```
 You can add comments to your code between the <!-- and --> markers.
